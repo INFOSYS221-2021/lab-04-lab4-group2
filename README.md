@@ -3,8 +3,8 @@
 Group Members 
 - Jack Prescott 
 - Avneet Sharma
-- Bao Li
-- Helen Vincent 
+- Bao Li (group 12) 
+- Helen Vincent (group 12) 
 
 List three data types used in this program.
 
