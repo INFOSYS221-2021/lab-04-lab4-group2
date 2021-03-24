@@ -8,7 +8,7 @@ Group Members
 
 List three data types used in this program.
         
-    Strings, Integers, boolean 
+    Strings, Integers, boolean (gameIsPlaying)
 
 List any value variables or reference variables in this program.
  
