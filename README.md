@@ -12,7 +12,7 @@ List three data types used in this program.
 
 List any value variables or reference variables in this program.
  
-    gameIsPlaying = True
+    gameIsPlaying,Letter, computerLetter, turn, theBoard, playerLetter
 
 Give an example of a sequence in this program.
  
