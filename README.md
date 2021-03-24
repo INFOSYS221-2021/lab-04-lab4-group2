@@ -3,8 +3,8 @@
 Group Members 
 - Jack Prescott 
 - Avneet Sharma
-- Bao Li (group 12) 
-- Helen Vincent (group 12) 
+- Bao Li
+- Helen Vincent 
 
 List three data types used in this program.
 
@@ -61,7 +61,8 @@ Give an example of a function that has at least one parameter in this program. A
     This function determines if the user wants to play the game again
     
 How does the program determine who wins the game? List the functions that the program use to determine the winner.
-
+        
+        The program compares all the winning boards to the current board and declares a winner             depending on the match.
         The fuctions used are "isWinner", "drawBoard"
         
 If the code on line 165 is changed from break to gameIsPlaying = False, will this change the behaviour of the program?
