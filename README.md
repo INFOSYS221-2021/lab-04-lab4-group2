@@ -66,6 +66,7 @@ How does the program determine who wins the game? List the functions that the pr
         
 If the code on line 165 is changed from break to gameIsPlaying = False, will this change the behaviour of the program?
 
+    Doesn’t change anything. There is a while loop while(gameIsPlaying), if gameIsPlaying is False     the loop will end.
 
 What does while True: do in this program?
 
