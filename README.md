@@ -65,6 +65,7 @@ How does the program determine who wins the game? List the functions that the pr
         The fuctions used are "isWinner", "drawBoard"
         
 If the code on line 165 is changed from break to gameIsPlaying = False, will this change the behaviour of the program?
- 
+
+
 What does while True: do in this program?
 
