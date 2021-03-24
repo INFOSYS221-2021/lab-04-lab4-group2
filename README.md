@@ -7,10 +7,10 @@ Group Members
 - Helen Vincent 
 
 List three data types used in this program.
-Strings, Integers, boolean 
+ Strings, Integers, boolean 
 
 List any value variables or reference variables in this program.
-gameIsPlaying = True
+ gameIsPlaying = True
 
 Give an example of a sequence in this program.
  
