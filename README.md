@@ -71,4 +71,4 @@ If the code on line 165 is changed from break to gameIsPlaying = False, will thi
 
 What does while True: do in this program?
 
-    Starts a loop without any variables to keep the game running despite the result of the game.
+    Starts a loop without any conditions to keep the game running despite the result of the game.
