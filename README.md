@@ -7,7 +7,7 @@ Group Members
 - Helen Vincent 
 
 List three data types used in this program.
-        
+
     Strings, list, boolean 
     move = ' '
     dupeBoard = []
@@ -15,11 +15,23 @@ List three data types used in this program.
     
 
 List any value variables or reference variables in this program.
- 
+
     gameIsPlaying = True
 
 Give an example of a sequence in this program.
- 
+
+         print('   |   |')
+         print(' ' + board[7] + ' | ' + board[8] + ' | ' + board[9])
+         print('   |   |')
+         print('-----------')
+         print('   |   |')
+         print(' ' + board[4] + ' | ' + board[5] + ' | ' + board[6])
+         print('   |   |')
+         print('-----------')
+         print('   |   |')
+         print(' ' + board[1] + ' | ' + board[2] + ' | ' + board[3])
+         print('   |   |')
+         
 Give an example of a condition in this program.
  
     if letter == 'X':
