@@ -37,7 +37,13 @@ Give an example of a list or collection in this program. What is saved in the li
      return move
   
 Give an example of a function that has at least one parameter in this program. And, briefly explain what the function is trying to achieve.
- 
+
+        def playAgain():
+         print('Do you want to play again? (yes or no)')
+         return input().lower().startswith('y')
+         
+    This function returns True if the player wants to play again, otherwise it returns False.
+    
 How does the program determine who wins the game? List the functions that the program use to determine the winner.
  
 If the code on line 165 is changed from break to gameIsPlaying = False, will this change the behaviour of the program?
