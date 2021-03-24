@@ -8,11 +8,15 @@ Group Members
 
 List three data types used in this program.
         
-    Strings, Integers, boolean (gameIsPlaying)
+    Strings, list, boolean 
+    move = ' '
+    dupeBoard = []
+    gameIsPlaying = False
+    
 
 List any value variables or reference variables in this program.
  
-    gameIsPlaying,Letter, computerLetter, turn, theBoard, playerLetter
+    gameIsPlaying = True
 
 Give an example of a sequence in this program.
  
