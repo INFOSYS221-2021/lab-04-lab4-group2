@@ -42,10 +42,12 @@ Give an example of a function that has at least one parameter in this program. A
          print('Do you want to play again? (yes or no)')
          return input().lower().startswith('y')
          
-    This function returns True if the player wants to play again, otherwise it returns False.
+    This function determines if the user wants to play the game again
     
 How does the program determine who wins the game? List the functions that the program use to determine the winner.
- 
+
+        The fuctions used are "isWinner", "drawBoard"
+        
 If the code on line 165 is changed from break to gameIsPlaying = False, will this change the behaviour of the program?
  
 What does while True: do in this program?
